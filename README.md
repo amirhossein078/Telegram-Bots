@@ -25,7 +25,7 @@
 
 ---
 
-# 🇬🇧 About This Project
+# About This Project
 
 This repository contains a collection of Telegram bot source codes developed using Python.
 
